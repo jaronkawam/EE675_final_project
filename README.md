@@ -56,3 +56,5 @@ This project utilizes data and architectural concepts from the **Willett et al. 
 
 * **Dataset:** [Handwriting BCI Data](https://doi.org/10.5061/dryad.wh70rxwmv)
 * **Paper:** Willett, F.R., Avansino, D.T., Hochberg, L.R. et al. *High-performance brain-to-text communication via handwriting.* Nature 593, 249–255 (2021). [https://doi.org/10.1038/s41586-021-03506-2](https://doi.org/10.1038/s41586-021-03506-2)
+
+Prepared with assistance of Google Gemini 3.1
